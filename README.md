@@ -1,8 +1,3 @@
-![Imagen de WhatsApp 2024-04-17 a las 17 59 35_83235d3a](https://github.com/EzequielMaida/Tp1Fisica/assets/170367334/ca9d0e4c-59cf-4420-8ea5-d1a38e598f5b)
-
-![Imagen de WhatsApp 2024-05-31 a las 11 42 33_8d8ac827](https://github.com/EzequielMaida/Tp1Fisica/assets/170367334/201fb8ea-40c8-4e85-88e3-03e146b3b6a0)
-
-------------------------------------------------------------------------------------------::---------------------------------------------
 
 De: Leon S. Kennedy
 Para: Profesor Diego Freijo
@@ -22,3 +17,11 @@ Agradecemos de antemano su comprensión y flexibilidad, y quedo a su disposició
 Atentamente,
 
 Leon S. Kennedy
+
+------------------------------------------------------------------------------------------::---------------------------------------------
+
+![Imagen de WhatsApp 2024-04-17 a las 17 59 35_83235d3a](https://github.com/EzequielMaida/Tp1Fisica/assets/170367334/ca9d0e4c-59cf-4420-8ea5-d1a38e598f5b)
+
+![Imagen de WhatsApp 2024-05-31 a las 11 42 33_8d8ac827](https://github.com/EzequielMaida/Tp1Fisica/assets/170367334/201fb8ea-40c8-4e85-88e3-03e146b3b6a0)
+
+
